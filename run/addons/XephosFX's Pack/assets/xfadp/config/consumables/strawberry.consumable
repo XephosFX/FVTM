@@ -1,0 +1,14 @@
+{
+    "RegistryName": "xfadp:strawberry",
+    "Addon": "fvtm:xfadp",
+    "FullName": "Strawberry",
+    "Description": [
+        "The Strawberry is a Fruit"
+    ],
+    "HealAmount": 3,
+    "Saturation": 0.5,
+    "UseDuration": 22,
+    "WolfMeat": true,
+    "Drinkable": false,
+    "AlwaysEdible": false
+}
