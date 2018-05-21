@@ -1,0 +1,14 @@
+{
+    "RegistryName": "xfadp:cheese",
+    "Addon": "fvtm:xfadp",
+    "FullName": "Cheese",
+    "Description": [
+        "Cheese is a milk product"
+    ],
+    "HealAmount": 2,
+    "Saturation": 0.2,
+    "UseDuration": 16,
+    "WolfMeat": true,
+    "Drinkable": false,
+    "AlwaysEdible": false
+}

@@ -1,0 +1,14 @@
+{
+    "RegistryName": "xfadp:pineapple",
+    "Addon": "fvtm:xfadp",
+    "FullName": "pineapple",
+    "Description": [
+        "The Pineapple is a Fruit"
+    ],
+    "HealAmount": 3,
+    "Saturation": 0.6,
+    "UseDuration": 26,
+    "WolfMeat": true,
+    "Drinkable": false,
+    "AlwaysEdible": false
+}

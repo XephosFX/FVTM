@@ -1,0 +1,14 @@
+{
+    "RegistryName": "xfadp:banana",
+    "Addon": "fvtm:xfadp",
+    "FullName": "Banana",
+    "Description": [
+        "The Banana is a Fruit"
+    ],
+    "HealAmount": 10,
+    "Saturation": 1.0,
+    "UseDuration": 30,
+    "WolfMeat": true,
+    "Drinkable": false,
+    "AlwaysEdible": false
+}

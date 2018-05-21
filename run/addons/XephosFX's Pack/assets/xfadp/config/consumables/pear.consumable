@@ -1,0 +1,14 @@
+{
+    "RegistryName": "xfadp:pear",
+    "Addon": "fvtm:xfadp",
+    "FullName": "Pear",
+    "Description": [
+        "The pear is a Fruit"
+    ],
+    "HealAmount": 4,
+    "Saturation": 0.8,
+    "UseDuration": 28,
+    "WolfMeat": true,
+    "Drinkable": false,
+    "AlwaysEdible": false
+}
