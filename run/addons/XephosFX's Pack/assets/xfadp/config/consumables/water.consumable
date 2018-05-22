@@ -1,0 +1,19 @@
+{
+    "RegistryName": "xfadp:water",
+    "Addon": "fvtm:xfadp",
+    "FullName": "Water",
+    "Description": [
+        "Water is a Drink"
+    ],
+    "HealAmount": 2,
+    "Saturation": 0.0,
+    "UseDuration": 20,
+    "WolfMeat": false,
+    "Drinkable": true,
+    "AlwaysEdible": false,
+    "ToughAsNails":{
+    	"Thirst": 5,
+    	"Hydration": 1.5,
+    	"PoisonChanse": 0.0
+    }
+}

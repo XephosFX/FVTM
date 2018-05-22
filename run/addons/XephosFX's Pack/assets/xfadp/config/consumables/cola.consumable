@@ -1,0 +1,19 @@
+{
+    "RegistryName": "xfadp:cola",
+    "Addon": "fvtm:xfadp",
+    "FullName": "Cola",
+    "Description": [
+        "Cola is a Drink"
+    ],
+    "HealAmount": 2,
+    "Saturation": 0.0,
+    "UseDuration": 20,
+    "WolfMeat": false,
+    "Drinkable": true,
+    "AlwaysEdible": false,
+    "ToughAsNails":{
+    	"Thirst": 2,
+    	"Hydration": 0.7,
+    	"PoisonChanse": 0.0
+    }
+}

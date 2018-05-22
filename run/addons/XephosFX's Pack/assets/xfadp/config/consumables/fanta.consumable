@@ -1,0 +1,19 @@
+{
+    "RegistryName": "xfadp:fanta",
+    "Addon": "fvtm:xfadp",
+    "FullName": "Fanta",
+    "Description": [
+        "Fanta is a Drink"
+    ],
+    "HealAmount": 2,
+    "Saturation": 0.0,
+    "UseDuration": 20,
+    "WolfMeat": false,
+    "Drinkable": true,
+    "AlwaysEdible": false,
+    "ToughAsNails":{
+    	"Thirst": 5,
+    	"Hydration": 0.8,
+    	"PoisonChanse": 0.0
+    }
+}
