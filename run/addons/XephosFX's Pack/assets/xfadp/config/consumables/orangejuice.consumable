@@ -1,0 +1,19 @@
+{
+    "RegistryName": "xfadp:orangejuice",
+    "Addon": "fvtm:xfadp",
+    "FullName": "Orange Juice",
+    "Description": [
+        "Orange Juice is a Drink"
+    ],
+    "HealAmount": 2,
+    "Saturation": 0.0,
+    "UseDuration": 20,
+    "WolfMeat": false,
+    "Drinkable": true,
+    "AlwaysEdible": false,
+    "ToughAsNails":{
+    	"Thirst": 5,
+    	"Hydration": 1.8,
+    	"PoisonChanse": 0.0
+    }
+}
